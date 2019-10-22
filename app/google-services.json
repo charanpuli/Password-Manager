@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "499996614636",
+    "firebase_url": "https://password-manager-be418.firebaseio.com",
+    "project_id": "password-manager-be418",
+    "storage_bucket": "password-manager-be418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499996614636:android:73fab226ce1bf7a9c7eac9",
+        "android_client_info": {
+          "package_name": "com.example.charanpuli.passwordmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499996614636-1dvgqdhc06lr3l33mv4eh76cdlnj8gme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.charanpuli.passwordmanager",
+            "certificate_hash": "62e05c7736220f59c939b7f3bac514bbb680376b"
+          }
+        },
+        {
+          "client_id": "499996614636-njns4f63ft23mmbf475h7ap7654e7h5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeVcWfRqdLGuwbsfHmZ2lctjROKj5V7Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499996614636-njns4f63ft23mmbf475h7ap7654e7h5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

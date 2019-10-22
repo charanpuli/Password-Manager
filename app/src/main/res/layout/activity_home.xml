@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@color/colorPrimary">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Password Manager"
+        android:textColor="@color/white_greyish"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+
+
+
+
+
+
+    <Button
+        android:id="@+id/decryptBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/loginbutton_selector"
+        android:padding ="3dp"
+        android:text="My Passwords"
+        android:textColor="@color/background_color"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+    <Button
+        android:id="@+id/enterBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/loginbutton_selector"
+        android:textColor="@color/background_color"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:padding="3dp"
+        android:text="Store"
+        />
+
+
+
+</LinearLayout>
